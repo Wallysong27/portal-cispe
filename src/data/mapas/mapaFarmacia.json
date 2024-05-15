@@ -1,0 +1,302 @@
+[
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Metropolitana | Remédio em Casa | Itinerante | Infusão",
+    "endereco": "Praça Oswaldo Cruz, S/N, Boa Vista, Recife - PE, 50790-300",
+    "latitude": "-8.054135772114885",
+    "longitude": "-34.89196438303234"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "II - Limoeiro",
+    "rd": "Agreste Setentrional",
+    "municipio": "Limoeiro",
+    "farmacia": "Farmácia Limoeiro",
+    "endereco": "Rua Padre Adalto Nicolau Pimentel, 224, José Fernandes Salsa, Limoeiro - PE, 55700-000",
+    "latitude": "-7.881452780466392",
+    "longitude": "-35.44892094498172"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "III - Palmares",
+    "rd": "Mata Sul",
+    "municipio": "Palmares",
+    "farmacia": "Farmácia Palmares",
+    "endereco": "Avenida Luiz de França, 1320, Centro, Palmares - PE, 55540-000",
+    "latitude": "-8.68353048189005",
+    "longitude": "-35.58769520210055"
+  },
+  {
+    "macro": "II - Agreste",
+    "geres": "IV - Caruaru",
+    "rd": "Agreste Central",
+    "municipio": "Caruaru",
+    "farmacia": "Farmácia Caruaru",
+    "endereco": "Rua Padre Félix Barreto, 20, Centro, Caruaru - PE, 55012-370",
+    "latitude": "-8.282110357941361",
+    "longitude": "-35.96967381799119"
+  },
+  {
+    "macro": "II - Agreste",
+    "geres": "V - Garanhuns",
+    "rd": "Agreste Meridional",
+    "municipio": "Garanhuns",
+    "farmacia": "Farmácia Garanhuns",
+    "endereco": "Rua Pedro Rocha, S/N, Heliópolis, Garanhuns - PE, 55296-195",
+    "latitude": "-8.889229105317355",
+    "longitude": "-36.46042923221284"
+  },
+  {
+    "macro": "III - Sertão",
+    "geres": "VI - Arcoverde",
+    "rd": "Sertão do Moxotó",
+    "municipio": "Arcoverde",
+    "farmacia": "Farmácia Arcoverde",
+    "endereco": "Rua das Acácias, 60 - São Cristóvão, Centro, Arcoverde - PE, 56506-020",
+    "latitude": "-8.421413518922009",
+    "longitude": "-37.05551382366207"
+  },
+  {
+    "macro": "IV - Vale do São Francisco e Araripe",
+    "geres": "VII - Salgueiro",
+    "rd": "Sertão Central",
+    "municipio": "Salgueiro",
+    "farmacia": "Farmácia Salgueiro",
+    "endereco": "BR 232 KM 520, Cohab, Salgueiro - PE, 56000-000",
+    "latitude": "-8.06968268128085",
+    "longitude": "-39.145540046663825"
+  },
+  {
+    "macro": "IV - Vale do São Francisco e Araripe",
+    "geres": "VIII - Petrolina",
+    "rd": "Sertão do São Francisco",
+    "municipio": "Petrolina",
+    "farmacia": "Farmácia Petrolina",
+    "endereco": "Av. Fernando Góes, S/N, Centro, Petrolina - PE",
+    "latitude": "-9.395371540092924",
+    "longitude": "-40.50002799070185"
+  },
+  {
+    "macro": "IV - Vale do São Francisco e Araripe",
+    "geres": "IX - Ouricuri",
+    "rd": "Sertão do Araripe",
+    "municipio": "Ouricuri",
+    "farmacia": "Farmácia Ouricuri",
+    "endereco": "Rua Hildebrando Coelho,  S/N, Centro, Ouricuri - PE, 56200-000",
+    "latitude": "-7.882338021289408",
+    "longitude": "-40.084983132114964"
+  },
+  {
+    "macro": "III - Sertão",
+    "geres": "X - Afogados da Ingazeira",
+    "rd": "Sertão do Pajeú",
+    "municipio": "Afogados da Ingazeira",
+    "farmacia": "Farmárica Afogados da Ingazeira",
+    "endereco": "Av. Júlio Câmera, 625, Centro, Afogados da Ingazeira - PE, 56800-000",
+    "latitude": "-7.7522024380047",
+    "longitude": "-37.635980759159466"
+  },
+  {
+    "macro": "III - Sertão",
+    "geres": "XI - Serra Talhada",
+    "rd": "Sertão do Pajeú",
+    "municipio": "Serra Talhada",
+    "farmacia": "Farmácia Serra Talhada",
+    "endereco": "Rua Jacinto Alves de Carvalho, 284, Nossa Senhora da Penha, Serra Talhada - PE, 56903-360",
+    "latitude": "-7.987843149112799",
+    "longitude": "-38.29934001365264"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "XII - Goiana",
+    "rd": "Metropolitana",
+    "municipio": "Goiana",
+    "farmacia": "Farmácia Parceira Goiana",
+    "endereco": "Rua dos Martirios, 22, Centro, Goiana - PE, 55900-000",
+    "latitude": "-7.558695879920004",
+    "longitude": "-35.00185561113636"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira PROCAPE",
+    "endereco": "Rua dos Palmares, S/N, Santo Amaro, Recife - PE, 50100-060",
+    "latitude": "-8.04910198402507",
+    "longitude": "-34.88725325126831"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira HCP",
+    "endereco": "Avenida Cruz Cabugá, 1597, Santo Amaro, Recife - PE, 50040-000",
+    "latitude": "-8.04126278235589",
+    "longitude": "-34.87303620775305"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira HUOC",
+    "endereco": "R. Arnóbio Marques, 310, Santo Amaro, Recife - PE, 50100-130",
+    "latitude": "-8.04760987727577",
+    "longitude": "-34.887712166212665"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira HEMOPE",
+    "endereco": "Rua Joaquim Nabuco, 171, Graças, Recife - PE, 52011-900",
+    "latitude": "-8.052714651117151",
+    "longitude": "-34.89795441770056"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira IMIP",
+    "endereco": "Rua dos Coelhos, 300, Boa Vista, Recife - PE, 50007-550",
+    "latitude": "-8.066880744995917",
+    "longitude": "-34.89027554376226"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira HC",
+    "endereco": "Av. Professor Moraes Rego, S/N, Cidade Universitária, Recife - PE, 50740-570",
+    "latitude": "-8.04732406886267",
+    "longitude": "-34.946325106949416"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira HBL (Oncologia)",
+    "endereco": "Av. Caxangá, 3860, Iputinga, Recife - PE, 50731-900",
+    "latitude": "-8.039936347101337",
+    "longitude": "-34.93966273884556"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira Rarus Maria Lucinda",
+    "endereco": "Av. Parnamirim, 95 -, Recife - PE, 52060-000",
+    "latitude": "-8.035783244564135",
+    "longitude": "-34.90744562923328"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira Nefroclínica",
+    "endereco": "Rua Joaquim de Brito, 267, Recife - PE, 50070-280",
+    "latitude": "-8.062911629210717",
+    "longitude": "-34.89375999318013"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "farmacia": "Farmácia Parceira RHP",
+    "endereco": "Av. Gov. Agamenon Magalhães, 4760, Paissandu, Recife - PE",
+    "latitude": "-8.064009265179491",
+    "longitude": "-34.898155363549165"
+  },
+  {
+    "macro": "III - Sertão",
+    "geres": "VI - Arcoverde",
+    "rd": "Sertão de Itaparica",
+    "municipio": "Petrolândia",
+    "farmacia": "Farmácia Parceira SMS",
+    "endereco": "Av. Djalma Wanderley, S/N, Centro, Petrolândia - PE, 56460-000",
+    "latitude": "-8.975933936492217",
+    "longitude": "-38.21539743611249"
+  },
+  {
+    "macro": "II - Agreste",
+    "geres": "IV - Caruaru",
+    "rd": "Agreste Central",
+    "municipio": "Caruaru",
+    "farmacia": "Farmácia Parceira CEOC",
+    "endereco": "Marijó de Farias, 220, Universitário, Caruaru - PE, 55016-375",
+    "latitude": "-8.272392386439762",
+    "longitude": "-35.96480907409953"
+  },
+  {
+    "macro": "II - Agreste",
+    "geres": "V - Garanhuns",
+    "rd": "Agreste Meridional",
+    "municipio": "Garanhuns",
+    "farmacia": "Farmácia Parceira ONCO - Garanhuns",
+    "endereco": "Av. Simoa Gomes, 33 Heliópolis, Garanhuns - PE, 55296-250",
+    "latitude": "-8.886748766496513",
+    "longitude": "-36.48279674721437"
+  },
+  {
+    "macro": "IV - Vale do São Francisco e Araripe",
+    "geres": "VIII - Petrolina",
+    "rd": "Sertão do São Francisco",
+    "municipio": "Petrolina",
+    "farmacia": "Farmácia Parceira ONCO - Petrolina",
+    "endereco": "APAMI - Rua Paz, 515, Gercino Coelho, Petrolina - PE, 56306-250",
+    "latitude": "-9.386586844380975",
+    "longitude": "-40.51024245182933"
+  },
+  {
+    "macro": "II - Agreste",
+    "geres": "IV - Caruaru",
+    "rd": "Agreste Central",
+    "municipio": "Pesqueira",
+    "farmacia": "Farmácia Parceira Pesqueira",
+    "endereco": "Rua Maestro Tomas de Aquino, s/n, Pesqueira - PE, 55200-00",
+    "latitude": "-8.148595818311826",
+    "longitude": "-36.368947272445844"
+  },
+  {
+    "macro": "III - Sertão",
+    "geres": "X - Afogados da Ingazeira",
+    "rd": "Sertão do Pajeú",
+    "municipio": "São José do Egito",
+    "farmacia": "Farmácia Parceira São José do Egito",
+    "endereco": "Praça da Bandeira, 100, Centro, São José do Egito - PE, 56700-000",
+    "latitude": "-7.4795678",
+    "longitude": "-37.2785031"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Ipojuca",
+    "farmacia": "Farmácia Parceira Ipojuca",
+    "endereco": "Rua João Pessoa, 85, Centro, Ipojuca - PE, 55590-000",
+    "latitude": "-8.400745772333078",
+    "longitude": "-35.0628344374526"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Mata Sul",
+    "municipio": "Vitória de Santo Antão",
+    "farmacia": "Farmácia Parceira Vitória",
+    "endereco": "Av. Henrique de Holanda, 927, Matriz, Vitória - PE, 55602-000",
+    "latitude": "-8.112210141949882",
+    "longitude": "-35.29157873418195"
+  }
+]

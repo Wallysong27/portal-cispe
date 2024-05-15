@@ -1,0 +1,3298 @@
+{
+  "AMBULATÓRIO": {
+    "BEXIGA NEUROGÊNICA": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "CARDIOLOGIA": [
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Regional José Fernandes Salsa"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Jesus Nazareno"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      },
+      {
+        "nome": "Hospital Ermírio Coutinho"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "CABEÇA E PESCOÇO": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      }
+    ],
+    "CLÍNICA MÉDICA": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Inácio de Sá"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      },
+      {
+        "nome": "Hospital Ermírio Coutinho"
+      },
+      {
+        "nome": "Hospital Miguel Arraes"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "CIRURGIA GERAL": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Regional José Fernandes Salsa"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Inácio de Sá"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      },
+      {
+        "nome": "Hospital Miguel Arraes"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "CIRURGIA BARIÁTRICA": [
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      }
+    ],
+    "CIRURGIA PLÁSTICA (reparadora)": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      }
+    ],
+    "CIRURGIA BMF": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      }
+    ],
+    "CIRURGIA TORÁCICA": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      }
+    ],
+    "CITOLOGIA": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      }
+    ],
+    "CLIMATÉRIO": [
+      {
+        "nome": "Hospital Geral de Areias"
+      }
+    ],
+    "COLPOSCOPIA": [
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      }
+    ],
+    "DERMATOLOGIA": [
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      }
+    ],
+    "ENDOCRINOLOGIA": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "FISIOTERAPIA": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital São Lucas"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      }
+    ],
+    "GASTROENTERIOLOGIA": [
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital Miguel Arraes"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "GERIATRIA": [
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      }
+    ],
+    "GINECOLOGIA": [
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital São Lucas"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      },
+      {
+        "nome": "Hospital Ermírio Coutinho"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "GINECOLOGIA ALTO RISCO": [
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Regional Inácio de Sá"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      }
+    ],
+    "HEMODINÂMICA": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      }
+    ],
+    "HANSENÍASE": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      }
+    ],
+    "HEMODIÁLISE": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      }
+    ],
+    "HEMATOLOGIA PEDIÁTRICO": [
+      {
+        "nome": "Hospital Dom Malan"
+      }
+    ],
+    "INFECTOLOGIA": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "IST/AIDS": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      }
+    ],
+    "MEDICINA DO TRABALHO": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Miguel Arraes"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "MASTOLOGIA": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      }
+    ],
+    "NUTRIÇÃO": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital Ermírio Coutinho"
+      },
+      {
+        "nome": "Hospital Miguel Arraes"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "NEUROLOGIA": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "NEUROPEDIATRIA": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      }
+    ],
+    "NEUROCIRURGIA": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      }
+    ],
+    "NEFROLOGIA": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      }
+    ],
+    "OBSTETRÍCIA": [
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      },
+      {
+        "nome": "Hospital Ermírio Coutinho"
+      }
+    ],
+    "OFTALMOLOGIA": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Ermírio Coutinho"
+      }
+    ],
+    "ORTOPEDIA": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Inácio de Sá"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      },
+      {
+        "nome": "Hospital Regional Ruy de Barros Correia"
+      },
+      {
+        "nome": "Hospital Miguel Arraes"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "OTORRINOLARINGOLOGIA": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      }
+    ],
+    "ONCOLOGIA": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      }
+    ],
+    "OSTOMIZADOS": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      }
+    ],
+    "OXIGENIOTERAPIA (PROGRAMA)": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      }
+    ],
+    "ODONTOLOGIA": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital São Lucas"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      }
+    ],
+    "PRÉ NATAL DE ALTO RISCO": [
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Regional Jesus Nazareno"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Inácio de Sá"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      }
+    ],
+    "PLANEJAMENTO FAMILIAR": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Regional José Fernandes Salsa"
+      },
+      {
+        "nome": "Hospital Regional Jesus Nazareno"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Inácio de Sá"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      }
+    ],
+    "PEDIATRIA": [
+      {
+        "nome": "Hospital São Lucas"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "PEDIATRIA NEFRO": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      }
+    ],
+    "PEDIATRIA GASTRO": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      }
+    ],
+    "PNEUMOLOGISTA": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      }
+    ],
+    "PSIQUIATRIA": [
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital São Lucas"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Emilia Câmara"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      }
+    ],
+    "CIRURGIA PEDIÁTRICA": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      }
+    ],
+    "PEDIATRIA.1": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "PSICOLOGIA": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Jaboatão Prazeres"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital São Lucas"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Nossa Senhora das Graçaas"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital Ermírio Coutinho"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "PSIQUIATRIA PEDIÁTRICA": [
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      }
+    ],
+    "PROCTOLOGIA": [
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Correia Picanço"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "PÉ TORTO": [
+      {
+        "nome": "Hospital Getúlio Vargas"
+      }
+    ],
+    "QUEIMADOS": [
+      {
+        "nome": "Hospital da Restauração"
+      }
+    ],
+    "QUIMIOTERAPIA": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      }
+    ],
+    "REUMATOLOGIA": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      }
+    ],
+    "TERAPIA OCUPACIONAL": [
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital São Lucas"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Geral de Areias"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      }
+    ],
+    "TISIOLOGIA": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      }
+    ],
+    "TRIAGEM NEONATAL": [
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Dom Malan"
+      },
+      {
+        "nome": "Hospital João Murilo de Oliveira"
+      }
+    ],
+    "TUBERCULOSE": [
+      {
+        "nome": "Hospital Otávio de Freitas"
+      }
+    ],
+    "UROLOGIA": [
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Otávio de Freitas"
+      },
+      {
+        "nome": "Hospital Regional Dom Moura"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Regional Fernando Bezerra"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Miguel Arraes"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ],
+    "VASCULAR": [
+      {
+        "nome": "Hospital da Restauração"
+      },
+      {
+        "nome": "Hospital Regional do Agreste"
+      },
+      {
+        "nome": "Hospital Getúlio Vargas"
+      },
+      {
+        "nome": "Hospital Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Barão de Lucena"
+      },
+      {
+        "nome": "Hospital Geral da Mirueira"
+      },
+      {
+        "nome": "Hospital Regional Belarmino Correia"
+      },
+      {
+        "nome": "Hospital Regional Professor Agamenon Magalhães"
+      },
+      {
+        "nome": "Hospital Dom Hélder Câmara"
+      },
+      {
+        "nome": "Hospital Regional de Palmares Silvio Magalhães"
+      },
+      {
+        "nome": "Hospital Mestre Vitalino"
+      },
+      {
+        "nome": "Hospital do Sertão Governador Eduardo Campos"
+      }
+    ]
+  },
+  "INTERNAMENTOS": {
+    "CLÍNICA MÉDICA ": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral da Mirueira" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Sao Sebastiao" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "CIRURGIA NEURO CLÍNICO": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "CARDIOLOGIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "CIRURGIA NCR": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Pelópidas Silveira" }
+    ],
+    "CIRURGIA VASCULAR": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "CIRURGIA GERAL": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "CIRURGIA PLÁSTICA": [{ "nome": "Hospital Agamenon Magalhães" }],
+    "TRAUMATO ORTOPEDIA": [
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "CIRURGIA BMF": [
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Regional Fernando Bezerra" }
+    ],
+    "ENDOCRINOLOGIA": [{ "nome": "Hospital Agamenon Magalhães" }],
+    "TRAUMATOLOGIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "OBSTETRÍCIA ALTO RISCO": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital João Murilo de Oliveira" }
+    ],
+    "OBSTETRÍCIA ": [
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "NEONATOLOGIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "OTORRINOLARINGOLOGIA": [{ "nome": "Hospital Agamenon Magalhães" }],
+    "ONCOLOGIA": [
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "GINECOLOGIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "PEDIATRIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "PSIQUIÁTRICO": [
+      { "nome": "Hospital Ulysses Pernambucano" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" }
+    ],
+    "UROLOGIA": [
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Miguel Arraes" }
+    ],
+    "PNEUMOLOGIA/TISIOLOGIA": [
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Nossa Senhora das Gracas" }
+    ],
+    "INFECTOLOGIA ADULTA (HANSENÍASE)": [
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Geral da Mirueira" }
+    ],
+    "LEITOS INTEGRAIS": [
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" }
+    ],
+    "UTI ADULTO": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "UTI CORONÁRIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "UNIDADE DE RECUPERAÇÃO DE CIRURGIA TORÁCICA - URCT": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "UTI PEDIÁTRICA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "UTI NEONATAL": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" }
+    ],
+    "UCI NEONATAL": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital João Murilo de Oliveira" }
+    ],
+    "UNIDADE DE CUIDADOS INTERMEDIÁRIOS - CANGURU": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Dom Malan" }
+    ],
+    "ALOJAMENTO CONJUNTO": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "INFECTOLOGIA ADULTO e PEDIÁTRICO": [
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Correia Picanço" }
+    ],
+    "HEMATOLOGIA ADULTO e PEDIÁTRICO": [{ "nome": "Hospital Getúlio Vargas" }],
+    "BUCOMAXILO": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Geral de Areias" }
+    ],
+    "SRAG ADULTO": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "SRAG PEDIÁTRICO": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ]
+  },
+  "SERVIÇO DE APOIO DIAGNÓSTICO TERAPÊUTICO": {
+    "ARTERIOGRAFIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Getúlio Vargas" }
+    ],
+    "ANGIOGRAFIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Pelópidas Silveira" }
+    ],
+    "AUDIOMETRIA": [{ "nome": "Hospital Agamenon Magalhães" }],
+    "AGÊNCIA TRANSFUNSIONAL": [
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "RAIO X": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral da Mirueira" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Sao Sebastiao" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "ULTRASSONOGRAFIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral da Mirueira" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Sao Sebastiao" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "ELETROCARDIOGRAMA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral da Mirueira" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "ELETRONEUROMIOGRAFIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" }
+    ],
+    "ELETROENCEFALOGRAMA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "ECOCARDIOGRAMA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "ESPIROMETRIA": [
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Otávio de Freitas" }
+    ],
+    "RESSONÂNCIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "HEMODINÂMICA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "HISTEROSCOPIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" }
+    ],
+    "HOLTER": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "TOMOGRAFIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "*" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira*" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "TESTE ERGOMÉTRICO": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Dom Hélder Câmara" }
+    ],
+    "TESTE DO PEZINHO": [
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "DESINTOMETRIA": [
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Mestre Vitalino" }
+    ],
+    "CPER": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "BRONCOSCOPIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "ANATOPATOLÓGICO": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "ENDOSCOPIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "COLONOSCOPIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "'-" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "COLPOSCOPIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Dom Malan" }
+    ],
+    "CITOLOGIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Dom Malan" }
+    ],
+    "URODINÂMICO (ESTUDO)": [
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Otávio de Freitas" }
+    ],
+    "MAMOGRAFIA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" }
+    ],
+    "CAF": [
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Regional Emília Câmara" }
+    ],
+    "MANOMETRIA ANO-RETAL": [{ "nome": "Hospital Barão de Lucena" }],
+    "POLISSONOGRAFIA": [
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Otávio de Freitas" }
+    ],
+    "VACINA": [
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "VIDEOLAPAROSCOPIA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EXAMES LABORATORIAIS": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral da Mirueira" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Nossa Senhora das Gracas" },
+      { "nome": "Hospital Brites de Albuquerque" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Sao Sebastiao" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ]
+  },
+  "SERVIÇOS": {
+    "EMERGÊNCIA GERAL": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA CLINICA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA VASCULAR": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA PEDIATRICA TO": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA PEDIATRICA CLINICA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Correia Picanço" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA OBSTETRICA": [
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital São Lucas" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "EMERGÊNCIA PSIQUIATRICA": [
+      { "nome": "Hospital Ulysses Pernambucano" },
+      { "nome": "Hospital Regional Fernando Bezerra" }
+    ],
+    "EMERGÊNCIA ORTOPEDICA": [
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    " EMERGÊNCIA UROLOGICA": [
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA ODONTOLOGICA": [
+      { "nome": "Hospital Regional Dom Moura" },
+      { "nome": "Hospital Jaboatão Prazeres" },
+      { "nome": "Hospital Regional José Fernandes Salsa" },
+      { "nome": "Hospital Geral de Areias" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" }
+    ],
+    "EMERGÊNCIA NEUROLOGICA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA TRAUMA": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital João Murilo de Oliveira" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "EMERGÊNCIA BMF": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" }
+    ],
+    "EMERGÊNCIA QUEIMADOS": [{ "nome": "Hospital da Restauração" }],
+    "EMERGÊNCIA ORL": [{ "nome": "Hospital Agamenon Magalhães" }],
+    " URGENCIA OBSTETRICA: ALTO RISCO": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital João Murilo de Oliveira" }
+    ],
+    "URGENCIA ONCOLOGICA": [],
+    "URGENCIA CARDIOLOGICA": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Pelópidas Silveira" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "SERVICO DE APOIO A MULHER": [
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Regional Jesus Nazareno" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Eduardo Campos" }
+    ],
+    "CIRURGIAS ELETIVAS": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" },
+      { "nome": "Hospital Regional Belarmino Correia" },
+      { "nome": "Hospital Regional Agamenon Magalhães" },
+      { "nome": "Hospital Regional Inácio de Sá" },
+      { "nome": "Hospital Dom Hélder Câmara" },
+      { "nome": "Hospital Regional Emília Câmara" },
+      { "nome": "Hospital Dom Malan" },
+      { "nome": "Hospital Regional Fernando Bezerra" },
+      { "nome": "Hospital Regional de Palmares Silvio Magalhães" },
+      { "nome": "Hospital Mestre Vitalino" },
+      { "nome": "Hospital Regional Ruy de Barros Correia" },
+      { "nome": "Hospital Miguel Arraes" },
+      { "nome": "Hospital do Sertão Governador Eduardo Campos" }
+    ],
+    "CAF": [
+      { "nome": "Hospital da Restauração" },
+      { "nome": "Hospital Regional do Agreste" },
+      { "nome": "Hospital Getúlio Vargas" },
+      { "nome": "Hospital Otávio de Freitas" },
+      { "nome": "Hospital Agamenon Magalhães" },
+      { "nome": "Hospital Barão de Lucena" }
+    ]
+  },
+  "ESPECIALIDADES": {
+    "CLÍNICA MÉDICA": [
+      { "nome": "UPA BARRA DE JANGADA" },
+      { "nome": "UPA CABO DE SANTO AGOSTINHO" },
+      { "nome": "UPA CARUARU" },
+      { "nome": "UPA CAXANGÁ" },
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA ENGENHO VELHO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA IGARASSU" },
+      { "nome": "UPA IMBIRIBEIRA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA PAULISTA" },
+      { "nome": "UPA PETROLINA" },
+      { "nome": "UPA SÃO LOURENÇO DA MATA" },
+      { "nome": "UPA TORROES" },
+      { "nome": "UPAE PALMARES" }
+    ],
+    "ORTOPEDIA": [
+      { "nome": "UPA BARRA DE JANGADA" },
+      { "nome": "UPA CABO DE SANTO AGOSTINHO" },
+      { "nome": "UPA CARUARU" },
+      { "nome": "UPA CAXANGÁ" },
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA IGARASSU" },
+      { "nome": "UPA IMBIRIBEIRA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA SÃO LOURENÇO DA MATA" },
+      { "nome": "UPA TORROES" }
+    ],
+    "PEDIATRIA": [
+      { "nome": "UPA BARRA DE JANGADA" },
+      { "nome": "UPA CABO DE SANTO AGOSTINHO" },
+      { "nome": "UPA CARUARU" },
+      { "nome": "UPA CAXANGÁ" },
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA ENGENHO VELHO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA IGARASSU" },
+      { "nome": "UPA IMBIRIBEIRA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA PAULISTA" },
+      { "nome": "UPA SÃO LOURENÇO DA MATA" },
+      { "nome": "UPA TORROES" }
+    ],
+    "OFTAMOLOGIA": [{ "nome": "UPA IBURA" }, { "nome": "UPA PAULISTA" }],
+    "ODONTOLOGIA": [
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA ENGENHO VELHO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA PAULISTA" },
+      { "nome": "UPA PETROLINA" }
+    ],
+    "ALERGOLOGIA": [
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ANESTESIOLOGIA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ANGIOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "CARDIOLOGIA ": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "CIRURGIA GERAL": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "DERMATOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ENDOCRINOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "GASTROENTEROLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "GINECOLOGIA ": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "HEMATOLOGIA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "INFECTOLOGIA": [
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "MASTOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "NEFROLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "NEUROLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" },
+      { "nome": "UPAER" }
+    ],
+    "NEUROPEDIATRIA": [{ "nome": "UPAE SERRA TALHADA" }],
+    "OFTALMOLOGIA ": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "OTORRINOLARINGOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PROCTOLOGIA": [{ "nome": "UPAE CARUARU" }],
+    "PNEUMOLOGIA": [
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "REUMATOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "UROLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "GERIATRIA": [{ "nome": "UPAE GRANDE RECIFE" }, { "nome": "UPAER" }],
+    "ASSISTÊNCIA SOCIAL": [{ "nome": "UPAER" }],
+    "ATIVIDADES EM GRUPO (PALESTRAS, JOGOS, REABILITAÇÃO, MULTIDISCIPLINAR)": [
+      { "nome": "UPAER" }
+    ],
+    "CUIDADOS PALIATIVOS": [{ "nome": "UPAER" }],
+    "FISIOTERAPIA": [{ "nome": "UPAER" }],
+    "NUTRIÇÃO": [{ "nome": "UPAER" }],
+    "PROGRAMA PÉ DIABÉTICO": [{ "nome": "UPAER" }],
+    "PSICOLOGIA": [{ "nome": "UPAER" }],
+    "VASCULAR": [{ "nome": "UPAER" }]
+  },
+  "EXAMES": {
+    "PATOLOGIA CLÍNICA": [
+      { "nome": "UPA BARRA DE JANGADA" },
+      { "nome": "UPA CABO DE SANTO AGOSTINHO" },
+      { "nome": "UPA CARUARU" },
+      { "nome": "UPA CAXANGÁ" },
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA ENGENHO VELHO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA IGARASSU" },
+      { "nome": "UPA IMBIRIBEIRA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA PAULISTA" },
+      { "nome": "UPA PETROLINA" },
+      { "nome": "UPA SÃO LOURENÇO DA MATA" },
+      { "nome": "UPA TORROES" },
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ELETROCARDIOGRAMA": [
+      { "nome": "UPA BARRA DE JANGADA" },
+      { "nome": "UPA CABO DE SANTO AGOSTINHO" },
+      { "nome": "UPA CARUARU" },
+      { "nome": "UPA CAXANGÁ" },
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA ENGENHO VELHO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA IGARASSU" },
+      { "nome": "UPA IMBIRIBEIRA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA PAULISTA" },
+      { "nome": "UPA PETROLINA" },
+      { "nome": "UPA SÃO LOURENÇO DA MATA" },
+      { "nome": "UPA TORROES" },
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "RADIOGRAFIA SIMPLES": [
+      { "nome": "UPA BARRA DE JANGADA" },
+      { "nome": "UPA CABO DE SANTO AGOSTINHO" },
+      { "nome": "UPA CARUARU" },
+      { "nome": "UPA CAXANGÁ" },
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA ENGENHO VELHO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA IGARASSU" },
+      { "nome": "UPA IMBIRIBEIRA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA PAULISTA" },
+      { "nome": "UPA PETROLINA" },
+      { "nome": "UPA SÃO LOURENÇO DA MATA" },
+      { "nome": "UPA TORROES" },
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "GASOMETRIA ARTERIAL": [
+      { "nome": "UPA BARRA DE JANGADA" },
+      { "nome": "UPA CABO DE SANTO AGOSTINHO" },
+      { "nome": "UPA CARUARU" },
+      { "nome": "UPA CAXANGÁ" },
+      { "nome": "UPA CURADO" },
+      { "nome": "UPA ENGENHO VELHO" },
+      { "nome": "UPA IBURA" },
+      { "nome": "UPA IGARASSU" },
+      { "nome": "UPA IMBIRIBEIRA" },
+      { "nome": "UPA NOVA DESCOBERTA" },
+      { "nome": "UPA OLINDA" },
+      { "nome": "UPA PAULISTA" },
+      { "nome": "UPA PETROLINA" },
+      { "nome": "UPA SÃO LOURENÇO DA MATA" },
+      { "nome": "UPA TORROES" }
+    ],
+    "ENDOSCOPIA DIGESTIVA ALTA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PESQUISA DE AHP": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BIÓPSIA DE EDA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "EXERESE DE PELE": [
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BIÓPSIA DE DERMATOLOGIA": [
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "AUDIOMETRIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "IMPEDANCIOMETRIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BERA": [{ "nome": "UPAE CARPINA" }, { "nome": "UPAE SERRA TALHADA" }],
+    "ECOCARDIOGRAMA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ESPIROMETRIA": [
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "MAPA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "TESTE ERGOMÉTRICO": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "HOLTER": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "COLONOSCOPIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BIÓPSIA DE COLONOSCOPIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "RETOSSIGMOIDOSCOPIA": [{ "nome": "UPAE PETROLINA" }],
+    "PUNÇÃO DE AGULHA GROSSA MAMA": [
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PUNÇÃO DE AGULHA FINA MAMA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BIÓPSIA DE MAMA": [
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PUNÇÃO DE AGULHA GROSSA": [{ "nome": "UPAE SERRA TALHADA" }],
+    "PUNÇÃO DE AGULHA FINA - MEDULA ÓSSEA": [{ "nome": "UPAE SERRA TALHADA" }],
+    "DENSITOMETRIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "MAMOGRAFIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ULTRASSONOGRAFIA GERAL": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ULTRASSONOGRAFIA COM DOPPLER": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BIOMICROSCOPIA DE FUNDO DE OLHO": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "CURVA DIÁRIA DE PRESSÃO OCULAR": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "FUNDOSCOPIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "TONOMETRIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "GONIOSCOPIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" }
+    ],
+    "BIOMETRIA ULTRASSÔNICA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "MAPEAMENTO DE RETINA COM GRÁFICO": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "MICROSCOPIA ESPECULAR DE CÓRNEA": [{ "nome": "UPAE CARUARU" }],
+    "CAMPIMETRIA COMPUTADORIZADA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" }
+    ],
+    "POTENCIAL DE ACUIDADE VISUAL": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE LIMOEIRO" }
+    ],
+    "PAQUIMETRIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "TESTE ORTÓPTICO": [{ "nome": "UPAE CARUARU" }, { "nome": "UPAE ESCADA" }],
+    "TOPOGRAFIA DE CÓRNEA": [{ "nome": "UPAE PETROLINA" }],
+    "CERATOMETRIA": [
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "IMITANCIOMETRIA": [{ "nome": "UPAE GARANHUNS" }],
+    "BRONCOSCOPIA": [{ "nome": "UPAE CARUARU" }],
+    "NASOFIBROSCOPIA": [
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "VIDEOLARINGOSCOPIA": [
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "VIDEONASOFIBROSCOPIA": [
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE SALGUEIRO" }
+    ],
+    "ELETRONEUROMIOGRAFIA": [
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ELETROENCEFALOGRAMA": [
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "REMOÇÃO DE CERUME": [
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" }
+    ],
+    "COLPOSCOPIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BIÓPSIA DE COLO DE ÚTERO": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "CAF": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "BIÓPSIA DE TIREOIDE": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PUNÇÃO DE TIREÓIDE": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "UROFLUXOMETRIA ": [{ "nome": "UPAE CARUARU" }],
+    "URODINÂMICA": [{ "nome": "UPAE GARANHUNS" }, { "nome": "UPAE PETROLINA" }],
+    "BIÓPSIA DE PÊNIS": [{ "nome": "UPAE CARUARU" }],
+    "BIOPSIA DE PRÓSTATA": [{ "nome": "UPAE GARANHUNS" }],
+    "PENISCOPIA": [{ "nome": "UPAE GRANDE RECIFE" }],
+    "CISTOSCOPIA": [{ "nome": "UPAE GRANDE RECIFE" }],
+    "INSERÇÃO DO DISPOSITIVO INTRA-UTERINO (DIU MIRENA)": [
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "DESINSERÇÃO DO DISPOSITIVO INTRA-UTERINO": [
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PRICK TEST (ALERGIA)": [{ "nome": "UPAE SERRA TALHADA" }],
+    "PATCH TEST (ALERGIA)": [{ "nome": "UPAE SERRA TALHADA" }],
+    "EXERESE DE NÓDULO DE MAMA": [
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "ELETROCAUTERIZAÇÃO": [
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PUNÇÃO POR AGULHA GUIADA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ]
+  },
+  "ESPECIALIDADES NÃO MÉDICAS": {
+    "ENFERMAGEM": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "NUTRIÇÃO": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "FISIOTERAPIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PSICOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "FONOAUDIOLOGIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "TERAPIA OCUPACIONAL": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "FARMÁCIA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "SERVIÇO SOCIAL": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE BELO JARDIM" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE LIMOEIRO" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ]
+  },
+  "PROGRAMAS": {
+    "BEXIGA NEUROGÊNICA": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "OSTOMIZADOS": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "PÉ DIABÉTICO": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ],
+    "REABILITAÇÃO PÓS COVID": [
+      { "nome": "UPAE AFOGADOS DA INGAZEIRA" },
+      { "nome": "UPAE ARCOVERDE" },
+      { "nome": "UPAE CARPINA" },
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE ESCADA" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE GRANDE RECIFE" },
+      { "nome": "UPAE OURICURI" },
+      { "nome": "UPAE PALMARES" },
+      { "nome": "UPAE PETROLINA" },
+      { "nome": "UPAE SALGUEIRO" },
+      { "nome": "UPAE SERRA TALHADA" }
+    ]
+  },
+  "CIRURGIA DERMATOLOGIA": {
+    "ELETROCOAGULAÇÃO DE LESÃO CUTÂNEA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "CAUTERIZAÇÃO QUÍMICA DE PEQUENAS LESÕES": [{ "nome": "UPAE CARUARU" }],
+    "APLICAÇÃO DE ÁCIDO-ATA": [{ "nome": "UPAE GARANHUNS" }],
+    "BIÓPSIA DE PELE E PARTES MOLES": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "EXERESE TUMOR DE PELE E ANEXOS": [{ "nome": "UPAE CARUARU" }],
+    "EXERESES DE LIPOMA ": [{ "nome": "UPAE GARANHUNS" }],
+    "EXERESE DE CISTO SEBÁCEO": [{ "nome": "UPAE GARANHUNS" }],
+    "EXERESE DE NEVUS": [{ "nome": "UPAE PETROLINA" }],
+    "XANTEPLASMA PALPEBRAL": [{ "nome": "UPAE GARANHUNS" }],
+    "RETIRADA DE LESÃO POR SHAVING": [{ "nome": "UPAE CARUARU" }],
+    "EXTIRPAÇÃO E SUPRESSÃO DE LESÃO": [{ "nome": "UPAE PETROLINA" }],
+    "EXCISAO E SUTURA COM PLASTICA": [{ "nome": "UPAE PETROLINA" }],
+    "DESBASTAMENTO DE CALOSIDADE": [{ "nome": "UPAE CARUARU" }]
+  },
+  "CIRURGIA GERAL": {
+    "HERNIORRAFIA UMBILICAL": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "HERNIORRAFIA EPIGÁSTRICA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "DRENAGEM DE ABCESSO": [{ "nome": "UPAE PETROLINA" }],
+    "EXCISÃO E SUTURA DE LESÃO NA PELE C/ PLAS": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "HERNIORRAFIA INGUINAL / CRURAL - UNILATERAL": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "HERNIORRAFIA INCISIONAL": [
+      {
+        "nome": "UPAE PETROLINA"
+      }
+    ],
+    "EXTIRPAÇÃO E SUPRESSÃO DE LESÃO": [
+      {
+        "nome": "UPAE PETROLINA"
+      }
+    ],
+    "EXERESE DE CISTO PILONIDAL": [
+      {
+        "nome": "UPAE CARUARU"
+      }
+    ],
+    "EXERESE TUMOR DE PELE E ANEXOS": [
+      {
+        "nome": "UPAE CARUARU"
+      }
+    ],
+    "RECONSTRUÇÃO DO LÓBULO DA ORELHA": [
+      {
+        "nome": "UPAE PETROLINA"
+      }
+    ],
+    "ORQUIECTOMIA UNILATERAL": [
+      {
+        "nome": "UPAE PETROLINA"
+      }
+    ],
+    "ELETROCOAGULAÇÃO DE LESÃO CUTÂNEA": [
+      {
+        "nome": "UPAE PETROLINA"
+      }
+    ],
+    "BIÓPSIA DE PARTES MOLES": [
+      {
+        "nome": "UPAE GARANHUNS"
+      }
+    ]
+  },
+  "CIRURGIA GINECOLOGIA": {
+    "MARSUPIALIZAÇÃO DA GLÂNDULA DE BARTHOLIN": [{ "nome": "UPAE GARANHUNS" }],
+    "BIÓPSIA DE COLO DE ÚTERO": [{ "nome": "UPAE GARANHUNS" }],
+    "EXCISÃO DE POLIPO": [{ "nome": "UPAE GARANHUNS" }],
+    "POLIPECTOMIA": [{ "nome": "UPAE PETROLINA" }],
+    "EXERESE DE CISTO VAGINAL": [{ "nome": "UPAE GARANHUNS" }]
+  },
+  "CIRURGIA MASTOLOGIA": {
+    "PUNÇÃO DE MAMA POR AGULHA GROSSA": [{ "nome": "UPAE CARUARU" }],
+    "EXERESE DE NÓDULO DE MAMA": [{ "nome": "UPAE CARUARU" }]
+  },
+  "CIRURGIA OFTALMOLOGIA": {
+    "FACO": [{ "nome": "UPAE GARANHUNS" }, { "nome": "UPAE PETROLINA" }],
+    "TRATAMENTO CIRÚRGICO DE PTERIGIO": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "SUTURA DE PALPEBRA": [{ "nome": "UPAE PETROLINA" }],
+    "EXERESE DE CALAZIO": [{ "nome": "UPAE PETROLINA" }],
+    "SUTURA DE CONJUNTIVA": [{ "nome": "UPAE PETROLINA" }]
+  },
+  "CIRURGIA OTORRINOLARINGOLOGIA": {
+    "MICROCIRURGIA OTOLÓGICA": [{ "nome": "UPAE PETROLINA" }],
+    "TIMPANOPLASTIA": [{ "nome": "UPAE PETROLINA" }],
+    "RECONSTRUÇÃO DO LÓBULO DA ORELHA": [{ "nome": "UPAE PETROLINA" }],
+    "MASTOIDECTOMIA": [{ "nome": "UPAE PETROLINA" }],
+    "RETIRADA DE CORPO ESTRANHO": [{ "nome": "UPAE PETROLINA" }],
+    "BIÓPSIA DE PELE": [{ "nome": "UPAE PETROLINA" }],
+    "RESSECÇÃO DE LESÃO DE BOCA": [{ "nome": "UPAE PETROLINA" }],
+    "EXCISÃO DE LESÃO": [{ "nome": "UPAE PETROLINA" }],
+    "EXTIRPAÇÃO E SUPRESSÃO DE LESÃO": [{ "nome": "UPAE PETROLINA" }],
+    "DRENAGEM DE ABCESSO PERIAMIGDALIANO": [{ "nome": "UPAE PETROLINA" }],
+    "TRAT CIRÚRGICO DE SINUS PRÉ-AURICULAR": [{ "nome": "UPAE PETROLINA" }],
+    "BIÓPSIA DE SEIOS PARANASAIS": [{ "nome": "UPAE PETROLINA" }],
+    "SEPTOPLASTIA PARA CORREÇÃO DE DESVIO": [{ "nome": "UPAE PETROLINA" }],
+    "EXCISÃO DE TUMOR DE VIAS AÉREAS SUPERIORES": [
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "EXERESE DE CISTO BRANQUIAL": [{ "nome": "UPAE PETROLINA" }],
+    "ADENOITECTOMIA": [
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "AMIDALECTOMIA": [{ "nome": "UPAE CARUARU" }, { "nome": "UPAE PETROLINA" }],
+    "AMIGDALECTOMIA COM ADENOIDECTOMIA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" }
+    ]
+  },
+  "CIRURGIA PROCTOLOGIA": {
+    "HEMORROIDECTOMIA": [{ "nome": "UPAE PETROLINA" }],
+    "EXCISÃO DE LESÃO  / TUMOR ANORRETAL": [{ "nome": "UPAE PETROLINA" }],
+    "TRAT CIRÚRGICO DE PROLAPSO ANAL": [{ "nome": "UPAE PETROLINA" }],
+    "DRENAGEM DE ABCESSO ÍSQUIO-RETAL": [{ "nome": "UPAE PETROLINA" }],
+    "FECHAMENTO DE FÍSTULA DO RETO": [{ "nome": "UPAE PETROLINA" }],
+    "ESFINTERECTOMIA / TRAT FISSURA ANAL": [{ "nome": "UPAE PETROLINA" }],
+    "FISTULECTOMIA / FISTULOTOMIA ANAL": [{ "nome": "UPAE PETROLINA" }],
+    "EXERESE DE CISTO SACRO COCCIGEO": [{ "nome": "UPAE PETROLINA" }],
+    "EXTIRPAÇÃO E SUPRESSÃO DE LESÃO": [{ "nome": "UPAE PETROLINA" }],
+    "PLÁSTICA ANAL EXTERNA / ESFINCTEROPLASTIA ANAL": [
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "PROCTOPLASTIA": [{ "nome": "UPAE PETROLINA" }],
+    "POLIPECTOMIA": [{ "nome": "UPAE PETROLINA" }],
+    "EXERESE DE NEVUS": [{ "nome": "UPAE PETROLINA" }],
+    "BIÓPSIA DE PELE": [{ "nome": "UPAE PETROLINA" }]
+  },
+  "CIRURGIA UROLOGIA": {
+    "EPIDIDIMECTOMIA": [{ "nome": "UPAE PETROLINA" }],
+    "HERNIOPLASTIA INGUINAL": [{ "nome": "UPAE PETROLINA" }],
+    "CISTOSTOMIA": [{ "nome": "UPAE PETROLINA" }],
+    "ORQUIDOPEXIA BILATERAL": [{ "nome": "UPAE PETROLINA" }],
+    "ORQUIDOPEXIA UNILATERAL": [{ "nome": "UPAE PETROLINA" }],
+    "ORQUIECTOMIA SUBCAPSULAR": [{ "nome": "UPAE PETROLINA" }],
+    "POSTECTOMIA": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "VASECTOMIA": [{ "nome": "UPAE GARANHUNS" }, { "nome": "UPAE PETROLINA" }],
+    "TRATAMENTO CIRÚRGICO DE HIDROCELE": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "INSTALAÇÃO ENDOSCÓPIA DE CATETER DE DUPLO J": [
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "TORÇÃO DE TESTÍCULO": [{ "nome": "UPAE PETROLINA" }],
+    "EXCISÃO DE LESÃO / TUMOR ANORRETAL": [{ "nome": "UPAE PETROLINA" }],
+    "SECÇÃO DE VASOS ABERRANTES": [{ "nome": "UPAE PETROLINA" }],
+    "MEATOTOMIA": [{ "nome": "UPAE PETROLINA" }],
+    "TRAT CIRÚRGICO DE INCONTINENCIA URO VAGINAL": [
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "VARICOCELE UNILATERAL": [{ "nome": "UPAE PETROLINA" }],
+    "URETROPLASTIA HETEROGÊNEA": [{ "nome": "UPAE PETROLINA" }],
+    "EXPLORAÇÃO CIRÚRGICA DE BOLSA ESCROTAL": [{ "nome": "UPAE PETROLINA" }],
+    "PLÁSTICA TOTAL DO PÊNIS": [{ "nome": "UPAE PETROLINA" }],
+    "PLASTICA DO FREIO BALANO-PREPUCIAL": [
+      { "nome": "UPAE CARUARU" },
+      { "nome": "UPAE PETROLINA" }
+    ],
+    "EXTIRPAÇÃO E SUPRESSÃO DE LESÃO": [{ "nome": "UPAE PETROLINA" }],
+    "EXERESE DE CISTO DE BOLSA ESCROTAL": [
+      { "nome": "UPAE GARANHUNS" },
+      { "nome": "UPAE PETROLINA" }
+    ]
+  },
+  "CIRURGIA VASCULAR": {
+    "VARIZES UNILATERAL": [{ "nome": "UPAE PETROLINA" }],
+    "EMBOLIZAÇÃO DE MALFORMAÇÃO VASCULAR": [{ "nome": "UPAE PETROLINA" }]
+  }
+}

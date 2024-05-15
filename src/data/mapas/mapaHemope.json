@@ -1,0 +1,152 @@
+[
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "hemocentro": "Fundação Hemope Sede Administrativa",
+    "endereco": "Av. Rio Capibaribe, 147 - São José, Recife - PE, 50020-080",
+    "latitude": "-8.0665457",
+    "longitude": "-34.8892889"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "hemocentro": "Hemocentro Recife",
+    "endereco": "R. Joaquim Nabuco, 171 - Graças, Recife - PE, 52011-000",
+    "latitude": "-8.0528651",
+    "longitude": "-34.9027352"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "hemocentro": "Hospital de Hematologia",
+    "endereco": "R. Joaquim Nabuco, 171 - Graças, Recife - PE, 52011-000",
+    "latitude": "-8.0528651",
+    "longitude": "-34.9027352"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "hemocentro": "Laboratórios Especializados",
+    "endereco": "R. Joaquim Nabuco, 171 - Graças, Recife - PE, 52011-000",
+    "latitude": "-8.0528651",
+    "longitude": "-34.9027352"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "hemocentro": "Ensino e Pesquisa",
+    "endereco": "R. Joaquim Nabuco, 171 - Graças, Recife - PE, 52011-000",
+    "latitude": "-8.0528651",
+    "longitude": "-34.9027352"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "I - Recife",
+    "rd": "Metropolitana",
+    "municipio": "Recife",
+    "hemocentro": "Almoxarifado e Patrimônio",
+    "endereco": "R. Gáspar Pérez, 273 - Iputinga, Recife - PE, 50670-350",
+    "latitude": "-8.0422142",
+    "longitude": "-34.943163"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "II - Limoeiro",
+    "rd": "Agreste Setentrional",
+    "municipio": "Limoeiro",
+    "hemocentro": "Agência Transfusional Regional Limoeiro",
+    "endereco": "Rua Santa Terezinha, 174 - José Fernandes Salsa, Limoeiro - PE, 557000-000",
+    "latitude": "-7.8373746",
+    "longitude": "-35.5233274"
+  },
+  {
+    "macro": "I - Metropolitana",
+    "geres": "III - Palmares",
+    "rd": "Mata Sul",
+    "municipio": "Palmares",
+    "hemocentro": "Hemocentro Regional Palmares (Esta Unidade está desativada para coleta, funcionando temporariamente como Agência Transfusional no Hospital Regional de Palmares.)",
+    "endereco": "Br 101, Km 185, s/n Engenho Quilombo dos, Palmares - PE, 55540-000",
+    "latitude": "-8.6867012",
+    "longitude": "-35.8799585"
+  },
+  {
+    "macro": "II - Agreste",
+    "geres": "IV - Caruaru",
+    "rd": "Agreste Central",
+    "municipio": "Caruaru",
+    "hemocentro": "Hemocentro Regional Caruaru",
+    "endereco": "Av. Oswaldo Cruz, S/N - Maurício de Nassau, Caruaru - PE, 55012-040",
+    "latitude": "-8.2800344",
+    "longitude": "-35.9733949"
+  },
+  {
+    "macro": "II - Agreste",
+    "geres": "V - Garanhuns",
+    "rd": "Agreste Meridional",
+    "municipio": "Garanhuns",
+    "hemocentro": "Hemocentro Regional Garanhuns",
+    "endereco": "Av. Gonçalves Maia - Heliópolis, Garanhuns - PE, 55296-270",
+    "latitude": "-8.8824788",
+    "longitude": "-36.4856624"
+  },
+  {
+    "macro": "III - Sertão",
+    "geres": "VI - Arcoverde",
+    "rd": "Sertão do Moxotó",
+    "municipio": "Arcoverde",
+    "hemocentro": "Núcleo de Hemoterapia Regional Arcoverde",
+    "endereco": "Av. Joaquim Nabuco, S/N - São Cristóvão, Arcoverde - PE, 56505-150",
+    "latitude": "-8.417505",
+    "longitude": "-37.058867"
+  },
+  {
+    "macro": "IV - Vale do São Francisco e Araripe",
+    "geres": "VII - Salgueiro",
+    "rd": "Sertão Central",
+    "municipio": "Salgueiro",
+    "hemocentro": "Núcleo de Hemoterapia Regional Salgueiro",
+    "endereco": "R. Joaquim Gondim, 65 - Santo Antonio, Salgueiro - PE, 56000-000",
+    "latitude": "-8.0750376",
+    "longitude": "-39.1235453"
+  },
+  {
+    "macro": "IV - Vale do São Francisco e Araripe",
+    "geres": "VIII - Petrolina",
+    "rd": "Sertão do São Francisco",
+    "municipio": "Petrolina",
+    "hemocentro": "Hemocentro Regional Petrolina",
+    "endereco": "R. Pacífico da Luz, s/n - Centro, Petrolina - PE, 56304-010",
+    "latitude": "-9.3940929",
+    "longitude": "-40.5052626"
+  },
+  {
+    "macro": "IV - Vale do São Francisco e Araripe",
+    "geres": "IX - Ouricuri",
+    "rd": "Sertão do Araripe",
+    "municipio": "Ouricuri",
+    "hemocentro": "Hemocentro Regional Ouricuri",
+    "endereco": "R. Ulisses Guimarães, S/N - Centro, Ouricuri - PE, 56200-000",
+    "latitude": "-7.881645",
+    "longitude": "-40.0873902"
+  },
+  {
+    "macro": "III - Sertão",
+    "geres": "XI - Serra Talhada",
+    "rd": "Sertão do Pajeú",
+    "municipio": "Serra Talhada",
+    "hemocentro": "Hemocentro Regional Serra Talhada",
+    "endereco": "418, R. Joaquim Godoy, 382 - Nossa Sra. da Penha, Serra Talhada - PE",
+    "latitude": "-7.9902169",
+    "longitude": "-38.3014421"
+  }
+]
