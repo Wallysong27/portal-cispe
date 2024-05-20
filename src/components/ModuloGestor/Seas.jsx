@@ -34,7 +34,7 @@ export default function Seas() {
       </Link>
       {/* Emergência dos 6 Grandes */}
       <Link
-        to="https://app.powerbi.com/view?r=eyJrIjoiNDY1OGIyZWMtZTVhZi00MzM0LTg4MmQtM2M4ZjFiYmE4MDA3IiwidCI6ImQ1ZTU0MGZmLTkzNzAtNGNhMi04YmVmLWQwMzcyMWQxM2MwNSJ9"
+        to="https://powerbi.ati.pe.gov.br/relatorios/powerbi/SES/DGMOG/BI%20autom%C3%A1tico/EMERGENCIAS?rs:embed=true"
         target="_blank"
       >
         <div className="relative w-[300px] h-[300px] bg-white rounded-2xl flex flex-col items-center justify-center gap-5 p-16">
