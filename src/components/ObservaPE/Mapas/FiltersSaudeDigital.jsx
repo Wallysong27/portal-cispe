@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Button } from "@material-tailwind/react";
 import { Select } from "@material-tailwind/react";
-import dataMapHemope from "../../data/mapas/mapaSaudeDigital.json";
+import dataMapSaudeDigital from "../../../data/mapas/mapaSaudeDigital.json";
 
 const FiltersSaudeDigital = ({
   onTipoAcaoSaudeDigitalChange,
@@ -29,7 +29,7 @@ const FiltersSaudeDigital = ({
 
   const nomeTipoAcaoSaudeDigital = Array.from(
     new Set(
-      dataMapHemope.flatMap((saudeDigital) => [
+      dataMapSaudeDigital.flatMap((saudeDigital) => [
         saudeDigital.tipoAcao1,
         saudeDigital.tipoAcao2,
         saudeDigital.tipoAcao3,
@@ -40,7 +40,7 @@ const FiltersSaudeDigital = ({
 
   const nomeMacrosSaudeDigital = Array.from(
     new Set(
-      dataMapHemope
+      dataMapSaudeDigital
         .filter((saudeDigital) =>
           selectedTipoAcaoSaudeDigital
             ? [
@@ -57,7 +57,7 @@ const FiltersSaudeDigital = ({
 
   const nomeGeresSaudeDigital = Array.from(
     new Set(
-      dataMapHemope
+      dataMapSaudeDigital
         .filter(
           (saudeDigital) =>
             (!selectedTipoAcaoSaudeDigital ||
@@ -76,7 +76,7 @@ const FiltersSaudeDigital = ({
 
   const nomeMunicipiosSaudeDigital = Array.from(
     new Set(
-      dataMapHemope
+      dataMapSaudeDigital
         .filter(
           (saudeDigital) =>
             (!selectedTipoAcaoSaudeDigital ||
@@ -97,7 +97,7 @@ const FiltersSaudeDigital = ({
 
   const nomeTipoUnidadeSaudeDigital = Array.from(
     new Set(
-      dataMapHemope
+      dataMapSaudeDigital
         .filter(
           (saudeDigital) =>
             (!selectedTipoAcaoSaudeDigital ||
@@ -120,7 +120,7 @@ const FiltersSaudeDigital = ({
 
   const nomeUnidadeSaudeDigital = Array.from(
     new Set(
-      dataMapHemope
+      dataMapSaudeDigital
         .filter(
           (saudeDigital) =>
             (!selectedTipoAcaoSaudeDigital ||

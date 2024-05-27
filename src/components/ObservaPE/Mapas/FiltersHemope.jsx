@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Button } from "@material-tailwind/react";
 import { Select } from "@material-tailwind/react";
-import dataMapHemope from "../../data/mapas/mapaHemope.json";
+import dataMapHemope from "../../../data/mapas/mapaHemope.json";
 
 const FiltersHemope = ({
   onMacroHemopeChange,

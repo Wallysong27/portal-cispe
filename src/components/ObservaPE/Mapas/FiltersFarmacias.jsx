@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Button } from "@material-tailwind/react";
 import { Select } from "@material-tailwind/react";
-import dataMapFarm from "../../data/mapas/mapaFarmacia.json";
+import dataMapFarm from "../../../data/mapas/mapaFarmacia.json";
 
 const FiltersFarmacias = ({
   onMacroFarmChange,

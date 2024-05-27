@@ -14,11 +14,11 @@ import iconFarmacia from "../../assets/img/servicos/mapas/icon-farmacia.png";
 import iconHemope from "../../assets/img/servicos/mapas/icon-hemope.png";
 import iconGeres from "../../assets/img/servicos/mapas/icon-geres.png";
 
-import FiltersUnidades from "../../components/Mapas/FiltersUnidades";
-import FiltersFarmacias from "../../components/Mapas/FiltersFarmacias";
-import FiltersHemope from "../../components/Mapas/FiltersHemope";
-import FiltersGeres from "../../components/Mapas/FiltersGeres";
-import FiltersSaudeDigital from "../../components/Mapas/FiltersSaudeDigital";
+import FiltersUnidades from "../../components/ObservaPE/Mapas/FiltersUnidades";
+import FiltersFarmacias from "../../components/ObservaPE/Mapas/FiltersFarmacias";
+import FiltersHemope from "../../components/ObservaPE/Mapas/FiltersHemope";
+import FiltersGeres from "../../components/ObservaPE/Mapas/FiltersGeres";
+import FiltersSaudeDigital from "../../components/ObservaPE/Mapas/FiltersSaudeDigital";
 
 import dataMapUnid from "../../data/mapas/mapaUnidade.json";
 import dataMapFarm from "../../data/mapas/mapaFarmacia.json";
@@ -35,6 +35,7 @@ const data = [
   { label: "Hemope", value: "hemope" },
   { label: "Geres", value: "geres" },
   { label: "Saúde Digital", value: "saude-digital" },
+  { label: "Observa PE", value: "observa-pe" },
 ];
 
 const colorData = [
@@ -355,6 +356,19 @@ export default function Maps() {
             onFilterSaudeDigitalChange={handleFilterSaudeDigitalChange}
           />
         );
+      case "observa-pe":
+        return (
+          <FiltersSaudeDigital
+            onTipoAcaoSaudeDigitalChange={setSelectedTipoAcaoSaudeDigital}
+            onMacroSaudeDigitalChange={setSelectedMacroSaudeDigital}
+            onGeresSaudeDigitalChange={setSelectedGeresSaudeDigital}
+            onMunicipioSaudeDigitalChange={setSelectedMunicipioSaudeDigital}
+            onTipoUnidadeSaudeDigitalChange={setSelectedTipoUnidadeSaudeDigital}
+            onNomeUnidadeSaudeDigitalChange={setSelectedNomeUnidadeSaudeDigital}
+            onResetSaudeDigitalFilters={handleResetFilters}
+            onFilterSaudeDigitalChange={handleFilterSaudeDigitalChange}
+          />
+        );
       default:
         return null;
     }
@@ -594,7 +608,8 @@ export default function Maps() {
                   (activeTab === "farmacias" && renderFilters(activeTab)) ||
                   (activeTab === "hemope" && renderFilters(activeTab)) ||
                   (activeTab === "geres" && renderFilters(activeTab)) ||
-                  (activeTab === "saude-digital" && renderFilters(activeTab))}
+                  (activeTab === "saude-digital" && renderFilters(activeTab)) ||
+                  (activeTab === "observa-pe" && renderFilters(activeTab))}
               </div>
             </div>
             <div className="px-6 md:px-16 lg:px-32 xl:px-40 mt-20 py-10">
@@ -636,6 +651,11 @@ export default function Maps() {
                 {activeTab === "geres" &&
                   renderMarkers(dataMapGeres.filter(filterGeres), iconGeres)}
                 {activeTab === "saude-digital" &&
+                  renderMarkers(
+                    dataMapSaudeDigital.filter(filterSaudeDigital),
+                    iconUnidade
+                  )}
+                {activeTab === "observa-pe" &&
                   renderMarkers(
                     dataMapSaudeDigital.filter(filterSaudeDigital),
                     iconUnidade

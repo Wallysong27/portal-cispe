@@ -1,6 +1,6 @@
 import { Select, Button } from "@material-tailwind/react";
 import { useState } from "react";
-import dataMapUnit from "../../data/mapas/mapaUnidade.json";
+import dataMapUnit from "../../../data/mapas/mapaUnidade.json";
 
 const FiltersUnidades = ({
   onTipoGestaoUnidadeChange,

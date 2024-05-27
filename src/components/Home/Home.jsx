@@ -1,6 +1,6 @@
 // IMPORTAÇÕES DO MOTION, REACT-ROUTER-DOM SLIDER E IMAGENS USADAS NA APLICAÇÃO
 import LogoCispe from "../../assets/img/home/logoCispe.png";
-import Arboviroses from "../../assets/img/home/arboviroses.png";
+// import Arboviroses from "../../assets/img/home/arboviroses.png";
 import Covid from "../../assets/img/home/covid.png";
 import Gestor from "../../assets/img/home/gestor.png";
 import Geres from "../../assets/img/home/geres.png";
@@ -111,7 +111,7 @@ export default function Home() {
               </Link>
 
               {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA A ROTA CORRETA DAS ARBOVIROSES */}
-              <Link to="/arboviroses">
+              {/* <Link to="/arboviroses">
                 <div className="!flex flex-col items-center justify-center gap-1 px-2 md:px-6">
                   <div className="bg-white rounded-full p-3 sm:p-5 md:p-7">
                     <img src={Arboviroses} alt="" />
@@ -120,16 +120,17 @@ export default function Home() {
                     Arboviroses
                   </span>
                 </div>
-              </Link>
+              </Link> */}
 
-              {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA A ROTA CORRETA DOS MAPAS */}
+              {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA A ROTA CORRETA DO OBSERVA PE */}
               <Link to="/mapas">
+              {/* <Link to="/observa-pe"> */}
                 <div className="!flex flex-col items-center justify-center gap-1 px-2 md:px-6">
                   <div className="bg-white rounded-full p-3 sm:p-5 md:p-7">
                     <img src={Mapa} alt="" />
                   </div>
                   <span className="text-center font-semibold text-xs md:text-sm text-[#0C2856] mb-5">
-                    Mapas da Saúde
+                    Observa PE
                   </span>
                 </div>
               </Link>
@@ -253,12 +254,10 @@ export default function Home() {
             </motion.div>
           </Link>
 
-          {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA O ENDEREÇO CORRETO */}
-          <Link
+          {/* <Link
             className="h-full w-[200px] flex flex-col items-center justify-center gap-1 cursor-pointer"
             to="/arboviroses"
           >
-            {/* DIV FEITA COM MOTION PARA INCLUIR EFEITOS NA MESMA, TAL DIV ENGLOBA O ÍCONE DO ITEM E SUA DESCRIÇÃO */}
             <motion.div
               className="relative h-full w-full flex flex-col items-center justify-center gap-1 cursor-pointer"
               whileHover={{ scale: 0.9 }}
@@ -274,13 +273,17 @@ export default function Home() {
                 (Dengue, Zika e Chikun.)
               </span>
             </motion.div>
-          </Link>
+          </Link> */}
 
           {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA O ENDEREÇO CORRETO */}
           <Link
             className="h-full w-[200px] flex flex-col items-center justify-center gap-1 cursor-pointer"
             to="/mapas"
           >
+            {/* <Link
+              className="h-full w-[200px] flex flex-col items-center justify-center gap-1 cursor-pointer"
+              to="/observa-pe"
+            > */}
             {/* DIV FEITA COM MOTION PARA INCLUIR EFEITOS NA MESMA, TAL DIV ENGLOBA O ÍCONE DO ITEM E SUA DESCRIÇÃO */}
             <motion.div
               className="h-full w-full flex flex-col items-center justify-center gap-1 cursor-pointer"
@@ -291,7 +294,7 @@ export default function Home() {
                 <img src={Mapa} alt="" className="h-full" />
               </div>
               <span className="font-semibold text-sm 2xl:text-lg text-[#0C2856] mb-5">
-                Mapas da Saúde
+                Observa PE
               </span>
             </motion.div>
           </Link>

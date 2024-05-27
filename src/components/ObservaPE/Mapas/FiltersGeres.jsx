@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Button, Select } from "@material-tailwind/react";
-import dataMapGeres from "../../data/mapas/mapaGeres.json";
+import dataMapGeres from "../../../data/mapas/mapaGeres.json";
 
 const FiltersGeres = ({
   onMacroGeresChange,
