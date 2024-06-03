@@ -26,7 +26,10 @@ export default function Router() {
           element={<EspecialidadesPage />}
         />
         <Route path="/covid-19" element={<CovidPage />} />
-        <Route path="/vigilancia-em-saude/arboviroses" element={<ArbovirosesPage />} />
+        <Route
+          path="/vigilancia-em-saude/arboviroses"
+          element={<ArbovirosesPage />}
+        />
         <Route
           path="/vigilancia-em-saude"
           element={<VigilanciaEmSaudePage />}

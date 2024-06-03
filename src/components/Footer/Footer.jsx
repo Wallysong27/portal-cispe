@@ -7,7 +7,7 @@ export default function Footer() {
         Desenvolvido pela Diretoria Geral de Monitoramento e Gestão Estratégica
       </p>
       <p>
-        Secretaria Estadual de Saúde | Rua Doná Maria Augusta, Bongi, Recife -
+        Secretaria Estadual de Saúde | Rua Doná Maria Augusta, 519, Bongi, Recife -
         PE, CEP 50.751-535 | Governo de Pernambuco
       </p>
     </div>
