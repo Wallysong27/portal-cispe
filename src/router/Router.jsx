@@ -6,7 +6,7 @@ import SaudeDoCidadaoPage from "../pages/saudeDoCidadao";
 import ModuloGestorPage from "../pages/moduloGestor";
 import PaineisGestorPage from "../pages/paineisGestor";
 import ArbovirosesPage from "../pages/arboviroses";
-import CovidPage from "../pages/covid";
+// import CovidPage from "../pages/covid";
 import VigilanciaEmSaudePage from "../pages/vigilanciaEmSaude";
 import PoliticaDeCookiesPage from "../pages/politicaDeCookies";
 // import ObservaPE from "../components/ObservaPE/ObservaPE";
@@ -25,7 +25,7 @@ export default function Router() {
           path="/saude-do-cidadao/especialidades-hospitalares"
           element={<EspecialidadesPage />}
         />
-        <Route path="/covid-19" element={<CovidPage />} />
+        {/* <Route path="/covid-19" element={<CovidPage />} /> */}
         <Route
           path="/vigilancia-em-saude/arboviroses"
           element={<ArbovirosesPage />}

@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import MapaSaudeBucal from "../../assets/img/moduloGestor/sevsap/mapa-saude-bucal.png";
 import MonitoramentoDesastres from "../../assets/img/moduloGestor/sevsap/monitoramento-desastres.png";
 import NucleoPromocaoSaude from "../../assets/img/moduloGestor/sevsap/nucleo-promocao-saude.png";
+import PlanificaPE from '../../assets/img/moduloGestor/sevsap/planifica-pe.png'
 import Vacinacao from "../../assets/img/moduloGestor/sevsap/vacinacao.png";
 
 export default function Sevsap() {
@@ -65,6 +66,21 @@ export default function Sevsap() {
           />
           <span className="absolute bottom-4 uppercase text-center">
             Núcleos de Promoção da Saúde (Privado)
+          </span>
+        </div>
+      </Link>
+      {/* Planifica PE */}
+      <Link
+        to="https://app.powerbi.com/view?r=eyJrIjoiNDlkOTg3MTctODlmOC00MzA0LWE1Y2QtOGQwNDk3NDEyNWIyIiwidCI6ImQ1ZTU0MGZmLTkzNzAtNGNhMi04YmVmLWQwMzcyMWQxM2MwNSJ9"
+        target="_blank"
+      >
+        <div className="relative w-[300px] h-[300px] bg-white rounded-2xl flex flex-col items-center justify-center gap-5 p-16 cursor-pointer">
+          <img
+            src={PlanificaPE}
+            alt="Imagem do Painel de Núcleos de Promoção da Saúde (Privado)"
+          />
+          <span className="absolute bottom-4 uppercase text-center">
+            Planifica PE
           </span>
         </div>
       </Link>

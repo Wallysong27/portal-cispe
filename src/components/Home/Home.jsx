@@ -1,7 +1,7 @@
 // IMPORTAÇÕES DO MOTION, REACT-ROUTER-DOM SLIDER E IMAGENS USADAS NA APLICAÇÃO
-import LogoCispe from "../../assets/img/home/logoCispe.png";
+import LogoCispe from "../../assets/img/home/logoCis.png";
 // import Arboviroses from "../../assets/img/home/arboviroses.png";
-import Covid from "../../assets/img/home/covid.png";
+// import Covid from "../../assets/img/home/covid.png";
 import Gestor from "../../assets/img/home/gestor.png";
 import Geres from "../../assets/img/home/geres.png";
 import Populacao from "../../assets/img/home/populacao.png";
@@ -99,7 +99,7 @@ export default function Home() {
               </Link>
 
               {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA A ROTA CORRETA DE COVID-19 */}
-              <Link to="/covid-19">
+              {/* <Link to="/covid-19">
                 <div className="!flex flex-col items-center justify-center gap-1 px-2 md:px-6">
                   <div className="bg-white rounded-full p-3 sm:p-5 md:p-7">
                     <img src={Covid} alt="" />
@@ -108,7 +108,7 @@ export default function Home() {
                     Covid-19
                   </span>
                 </div>
-              </Link>
+              </Link> */}
 
               {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA A ROTA CORRETA DAS ARBOVIROSES */}
               {/* <Link to="/arboviroses">
@@ -236,7 +236,7 @@ export default function Home() {
           </Link>
 
           {/* <Link> USADO PARA REDIRECIONAR A PÁGINA PARA O ENDEREÇO CORRETO */}
-          <Link
+          {/* <Link
             className="h-full w-[200px] flex flex-col items-center justify-center gap-1 cursor-pointer"
             to="/covid-19"
           >
@@ -252,7 +252,7 @@ export default function Home() {
                 Covid-19
               </span>
             </motion.div>
-          </Link>
+          </Link> */}
 
           {/* <Link
             className="h-full w-[200px] flex flex-col items-center justify-center gap-1 cursor-pointer"
