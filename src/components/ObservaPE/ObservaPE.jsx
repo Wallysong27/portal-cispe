@@ -5,7 +5,7 @@
 export default function ObservaPE() {
   return (
     <>
-      <div>teste</div>
+      <div>teste observa pe</div>
     </>
   );
 }
