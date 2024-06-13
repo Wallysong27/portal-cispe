@@ -32,7 +32,7 @@ export default function Seas() {
           </span>
         </div>
       </Link>
-      {/* Emergência dos 6 Grandes */}
+      {/* Emergências dos 6 grandes */}
       <Link
         to="https://powerbi.ati.pe.gov.br/relatorios/powerbi/SES/DGMOG/BI%20autom%C3%A1tico/EMERGENCIAS?rs:embed=true"
         target="_blank"
