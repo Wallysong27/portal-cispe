@@ -35,7 +35,7 @@ const data = [
   { label: "Hemope", value: "hemope" },
   { label: "Geres", value: "geres" },
   { label: "Saúde Digital", value: "saude-digital" },
-  { label: "Observa PE", value: "observa-pe" },
+  // { label: "Observa PE", value: "observa-pe" },
 ];
 
 const colorData = [
@@ -356,19 +356,20 @@ export default function Maps() {
             onFilterSaudeDigitalChange={handleFilterSaudeDigitalChange}
           />
         );
-      case "observa-pe":
-        return (
-          <FiltersSaudeDigital
-            onTipoAcaoSaudeDigitalChange={setSelectedTipoAcaoSaudeDigital}
-            onMacroSaudeDigitalChange={setSelectedMacroSaudeDigital}
-            onGeresSaudeDigitalChange={setSelectedGeresSaudeDigital}
-            onMunicipioSaudeDigitalChange={setSelectedMunicipioSaudeDigital}
-            onTipoUnidadeSaudeDigitalChange={setSelectedTipoUnidadeSaudeDigital}
-            onNomeUnidadeSaudeDigitalChange={setSelectedNomeUnidadeSaudeDigital}
-            onResetSaudeDigitalFilters={handleResetFilters}
-            onFilterSaudeDigitalChange={handleFilterSaudeDigitalChange}
-          />
-        );
+      // ALTERAR TUDO PARA OBSERVA PE FUTURAMENTE
+      // case "observa-pe":
+      //   return (
+      //     <FiltersSaudeDigital
+      //       onTipoAcaoSaudeDigitalChange={setSelectedTipoAcaoSaudeDigital}
+      //       onMacroSaudeDigitalChange={setSelectedMacroSaudeDigital}
+      //       onGeresSaudeDigitalChange={setSelectedGeresSaudeDigital}
+      //       onMunicipioSaudeDigitalChange={setSelectedMunicipioSaudeDigital}
+      //       onTipoUnidadeSaudeDigitalChange={setSelectedTipoUnidadeSaudeDigital}
+      //       onNomeUnidadeSaudeDigitalChange={setSelectedNomeUnidadeSaudeDigital}
+      //       onResetSaudeDigitalFilters={handleResetFilters}
+      //       onFilterSaudeDigitalChange={handleFilterSaudeDigitalChange}
+      //     />
+      //   );
       default:
         return null;
     }
@@ -604,12 +605,14 @@ export default function Maps() {
                   filterVisible ? "opacity-100" : "opacity-0"
                 } z-[2000] xl:h-auto bg-white backdrop-blur-sm backdrop-filter p-10 rounded-xl`}
               >
-                {(activeTab === "unidades" && renderFilters(activeTab)) ||
-                  (activeTab === "farmacias" && renderFilters(activeTab)) ||
-                  (activeTab === "hemope" && renderFilters(activeTab)) ||
-                  (activeTab === "geres" && renderFilters(activeTab)) ||
-                  (activeTab === "saude-digital" && renderFilters(activeTab)) ||
-                  (activeTab === "observa-pe" && renderFilters(activeTab))}
+                {
+                  (activeTab === "unidades" && renderFilters(activeTab)) ||
+                    (activeTab === "farmacias" && renderFilters(activeTab)) ||
+                    (activeTab === "hemope" && renderFilters(activeTab)) ||
+                    (activeTab === "geres" && renderFilters(activeTab)) ||
+                    (activeTab === "saude-digital" && renderFilters(activeTab))
+                  // (activeTab === "observa-pe" && renderFilters(activeTab))
+                }
               </div>
             </div>
             <div className="px-6 md:px-16 lg:px-32 xl:px-40 mt-20 py-10">
@@ -655,11 +658,11 @@ export default function Maps() {
                     dataMapSaudeDigital.filter(filterSaudeDigital),
                     iconUnidade
                   )}
-                {activeTab === "observa-pe" &&
+                {/* {activeTab === "observa-pe" &&
                   renderMarkers(
                     dataMapSaudeDigital.filter(filterSaudeDigital),
                     iconUnidade
-                  )}
+                  )} */}
               </MapContainer>
             </div>
           </div>
