@@ -19,6 +19,7 @@ import FiltersFarmacias from "../../components/ObservaPE/Mapas/FiltersFarmacias"
 import FiltersHemope from "../../components/ObservaPE/Mapas/FiltersHemope";
 import FiltersGeres from "../../components/ObservaPE/Mapas/FiltersGeres";
 import FiltersSaudeDigital from "../../components/ObservaPE/Mapas/FiltersSaudeDigital";
+// LEMBRAR DE CRIAR, SE NECESSÁRIO, O ARQUIVO "FiltersObservaPE" PARA OS MAPAS
 
 import dataMapUnid from "../../data/mapas/mapaUnidade.json";
 import dataMapFarm from "../../data/mapas/mapaFarmacia.json";
